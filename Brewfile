@@ -5,6 +5,7 @@ tap "vladdoster/formulae"
 
 brew "python"
 brew "tcl-tk"
+brew "ffmpeg"
 
 cask "figma"
 cask "google-chrome"
